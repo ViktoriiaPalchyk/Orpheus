@@ -294,7 +294,7 @@ body, html{
 .swiper-body__view::before{
     content: '';
     display: block;
-    background-image: url('images/watch.svg');
+    background-image: url('../images/watch.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 22px;
